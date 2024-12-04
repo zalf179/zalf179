@@ -47,7 +47,7 @@ Here are some of my key technical skills:
 - **Networking**: TCP/IP, Firewall Configurations, Network Monitoring  
 - **Tools**: Snort, OpenVAS, Wireshark, Elastic Stack, Wazuh  
 - **Programming**: Python, Bash Scripting  
-- **Operating Systems**: Windows Server, Ubuntu Server, Kali Linux  
+- **Operating Systems**: Windows, Ubuntu Server, Kali Linux  
 
 ---
 
