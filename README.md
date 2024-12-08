@@ -8,7 +8,7 @@ I'm a passionate and dedicated cybersecurity enthusiast, currently pursuing my s
 ### 🌟 **Projects**
 Here are some of the projects I've been working on:
 
-- **SIEM Home Lab**  
+- **SOC Home Lab**  
   - Built a Security Information and Event Management (SIEM) system using Wazuh in Ubuntu Server.  
   - [View Repository](#)  
 
