@@ -10,7 +10,7 @@ Here are some of the projects I've been working on:
 
 - **SOC Home Lab**  
   - Built a Security Information and Event Management (SIEM) system using Wazuh in Ubuntu Server.  
-  - [View Repository](#)  
+  - [View Repository](https://github.com/zalf179/SOC-Home-Lab)  
 
 - **Vulnerability Management**  
   - Deployed OpenVAS to identify and manage vulnerabilities in a simulated network.  
