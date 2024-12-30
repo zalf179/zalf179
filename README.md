@@ -18,7 +18,7 @@ Here are some of the projects I've been working on:
 
 - **Suricata**  
   - Deployed Suricata and integrate it with Wazuh.  
-  - [View Repository](#)
+  - [View Repository](https://github.com/zalf179/Suricata)
 
 ---
 
