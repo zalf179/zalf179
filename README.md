@@ -55,7 +55,7 @@ Here are some of my key technical skills:
 Feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-rizal-fadhillah/)  
-- [Email](mailto:youremail@example.com)  
+- [Email](mailto:orchidfams@gmail.com)  
 
 ---
 
