@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Muhammad Rizal Fadhillah
 
 🎯 **About Me**  
-I'm a passionate and dedicated cybersecurity enthusiast, currently pursuing my studies while building my skills in [specific field, e.g., SOC Analyst, Penetration Testing, Malware Analysis]. My goal is to make the digital world a safer place. 🚀
+I'm a passionate and dedicated cybersecurity enthusiast, currently pursuing my studies while building my skills in [specific field, e.g., SOC Analyst, Penetration Testing, Malware Analysis]. I have hands-on lab experience with TryHackMe, CyberDefender, BTLO, and LetsDefend, and I have completed a mini SOC project using VirtualBox.
 
 ---
 
