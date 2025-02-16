@@ -17,7 +17,7 @@ Here are some of the projects I've been working on:
   - [View Repository](https://github.com/zalf179/Greenbone)  
 
 - **Suricata**  
-  - Deployed Suricata and integrate it with Wazuh.  
+  - Deployed Suricata and integrate it with Elastic.  
   - [View Repository](https://github.com/zalf179/Suricata)
 
 ---
