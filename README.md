@@ -3,22 +3,7 @@
 🎯 **About Me**  
 I'm a passionate and dedicated cybersecurity enthusiast, currently pursuing my studies while building my skills in [specific field, e.g., SOC Analyst, Penetration Testing, Malware Analysis]. I have hands-on lab experience with TryHackMe, CyberDefender, BTLO, and LetsDefend, and I have completed a mini SOC project using VirtualBox.
 
----
 
-### 🌟 **Projects**
-Here are some of the projects I've been working on:
-
-- **SOC Home Lab**  
-  - Built a Security Information and Event Management (SIEM) system using ELK Stack in Ubuntu Server.  
-  - [View Repository](https://github.com/zalf179/SOC-Home-Lab)  
-
-- **Vulnerability Management**  
-  - Deployed OpenVAS to identify and manage vulnerabilities in a simulated network.  
-  - [View Repository](https://github.com/zalf179/Greenbone)  
-
-- **Suricata**  
-  - Deployed Suricata and integrate it with Elastic.  
-  - [View Repository](https://github.com/zalf179/Suricata)
 
 ---
 
