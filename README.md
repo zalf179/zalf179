@@ -2,7 +2,7 @@
 
 > *From defending systems to building them.*
 
-I started in cybersecurity — SOC workflows, malware analysis, penetration testing simulations, and even built my own mini SOC environment from scratch with VirtualBox. Spent serious time on **TryHackMe**, **BTLO**, **CyberDefenders**, and **LetsDefend**.
+I started in cybersecurity — SOC workflows, penetration testing , and even built my own mini SOC environment from scratch with VirtualBox. Spent serious time on **TryHackMe**, **BTLO**, **CyberDefenders**, and **LetsDefend**.
 
 Then I hit a realization: what excited me most wasn't just defending systems — it was understanding how they're **built, automated, and kept running**. That's what pulled me toward **DevOps**.
 
