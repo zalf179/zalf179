@@ -23,8 +23,7 @@ CI/CD Pipelines  ·  Docker  ·  Kubernetes  ·  Infrastructure as Code  ·  Clo
 | Area | Tools / Platforms |
 |---|---|
 | SOC & Detection | Splunk, Wazuh, ELK Stack |
-| Threat Simulation | Atomic Red Team, OpenVAS |
-| Malware Analysis | VirtualBox lab environment |
+| Threat Simulation | Atomic Red Team, Caldera |
 | CTF & Practice | TryHackMe, BTLO, CyberDefenders, LetsDefend |
 
 ---
