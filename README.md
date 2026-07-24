@@ -31,6 +31,7 @@ CI/CD Pipelines  ·  Docker  ·  Kubernetes  ·  Infrastructure as Code  ·  Clo
 ## 🚀 Recent Projects & Writeups
 
 <!-- Medium articles auto-listed here -->
+- 📦 **[Building an Enterprise-Grade DevSecOps & GitOps Pipeline: From Code to Monitoring with ArgoCD, SonarQube & Grafana](https://medium.com/@indofrick/building-an-enterprise-grade-devsecops-gitops-pipeline-from-code-to-monitoring-with-argocd-78204a02bf25)**
 - 📦 **[Building a Python CI/CD Pipeline: Errors, False Positives, and Lessons Learned](https://medium.com/@indofrick/building-a-python-ci-cd-pipeline-errors-false-positives-and-lessons-learned-f75743c833bb)**
 - 📊 **[Building a Centralized Logging System with ELK Stack & Docker on Minimal Hardware](https://medium.com/@indofrick/building-a-centralized-logging-system-with-elk-stack-docker-on-minimal-hardware-72ee2b960ccb)**
 - 🐳 **[Containerizing a YT2MP3 Web App with Docker](https://medium.com/@indofrick/containerizing-a-yt2mp3-web-app-with-docker-e716752f996b)**
