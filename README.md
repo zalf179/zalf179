@@ -23,7 +23,7 @@ CI/CD Pipelines  ·  Docker  ·  Kubernetes  ·  Infrastructure as Code  ·  Clo
 | Area | Tools / Platforms |
 |---|---|
 | SOC & Detection | Splunk, Wazuh, ELK Stack |
-| Threat Simulation | Atomic Red Team, Caldera |
+| Penetration Testing | Nmap,Burpsuite,Nuclei,Hydra|
 | CTF & Practice | TryHackMe, BTLO, CyberDefenders, LetsDefend |
 
 ---
